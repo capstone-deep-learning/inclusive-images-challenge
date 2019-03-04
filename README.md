@@ -1,10 +1,10 @@
-# inclusive-images-challenge
+# Inclusive Image Challenge using Deep Learning with CNN Architecture
 
 ## Inspired from https://www.kaggle.com/c/inclusive-images-challenge ##
 
 ## Data https://www.kaggle.com/c/inclusive-images-challenge/data ##
 
-## Functional Architecture ##
+## Functional Architecture ## 
 ![picture alt](./functionalarchitecture.png)
 
 ## Models (under./models) ##
