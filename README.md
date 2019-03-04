@@ -7,7 +7,7 @@
 ## Functional Architecture ## 
 ![picture alt](./functionalarchitecture.png)
 
-## Models (under./models) ##
+## TBF Models (under./models) ##
  * CropnResize Used for preprocssing and did Image crop, resize (256*256) for data preparation
 
  * 7Layer5Conv3DenseBn custom model developed by our team
