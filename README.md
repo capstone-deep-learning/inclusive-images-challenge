@@ -1,17 +1,19 @@
 # inclusive-images-challenge
-Inspired from https://www.kaggle.com/c/inclusive-images-challenge
+## Inspired from https://www.kaggle.com/c/inclusive-images-challenge ##
 
-Data https://www.kaggle.com/c/inclusive-images-challenge/data
+## Data https://www.kaggle.com/c/inclusive-images-challenge/data ##
+## Models (under./models) ##
+ * cropnresize as name indicates used for Image crop, resize (256*256) for data preparation
 
-Models are present under ./models directory
-* Three models you will find
-cropnresize will complete the data preparation to be fed to the model
-7later-75conv-3dense-bn model is built by us
-vgg16transferlearning model as name suggest have used transferlearning
+ * 7later-75conv-3dense-bn custom model developed by our team
 
-Architecture Diagram
+ * vgg16transferlearning as name indicates leveraged the transfer learning with VGG16 (https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
-Metrics
+## Architecture Diagram ##
+
+
+## Metrics ##
+
 
 
 
