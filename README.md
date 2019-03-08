@@ -22,5 +22,5 @@
 
 | Model                | Training Acc  | Validation Acc | Time per Epoch |
 | -------------------- | ------------- | -------------  | -------------  | 
-| VGG16                | TBF           | TBF            | TBF            |
+| VGG16                | 0.99          | 0.90           | 292 seconds    |
 | 7Layer5Conv3DenseBn  | 0.99          | 0.79           | 170 seconds    |
