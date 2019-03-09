@@ -7,10 +7,12 @@
 ## Functional Architecture ## 
 ![picture alt](./functionalarchitecture.png)
 
-## TBF Models (under./models) ##
+## Models (under./models, Final cleaned version still to be upload) ##
  * CropnResize Used for preprocssing and did Image crop, resize (256*256) for data preparation
+ 
+ * Helper Python file to help in setting up the functions at better level
 
- * 7Layer5Conv3DenseBn custom model developed by our team
+ * 7Layer5Conv3DenseBn Custom model developed by our team
 
  * VGG16TransferLearning as name indicates leveraged the transfer learning with VGG16 (https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5)
 
